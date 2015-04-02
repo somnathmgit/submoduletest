@@ -1,0 +1,3 @@
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/svanzoest-cookbooks/apache2.git
